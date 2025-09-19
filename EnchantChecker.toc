@@ -1,0 +1,13 @@
+## Interface: 100200
+## Title: EnchantChecker
+## Title-deDE: EnchantChecker
+## Notes: Checks for missing enchants and gems on equipment
+## Notes-deDE: Überprüft fehlende Verzauberungen und Edelsteine auf der Ausrüstung
+## Author: Arnioa
+## Version: 1.2.0
+## SavedVariables: EnchantCheckDB
+
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\ruRU.lua
+EnchantChecker.lua
